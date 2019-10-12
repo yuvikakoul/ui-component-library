@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import Navigation from "./navigation";
 import Home from "../home";
-import Button from "../element/buttons"
+import Button from "../element/buttons/buttons"
 
 import './page.css'
 import '@trendmicro/react-sidenav/dist/react-sidenav.css';
