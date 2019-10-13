@@ -25,15 +25,17 @@ class Page extends Component {
     render() {
         return (
             <div className="page-wrapper">
-             <Navigation
-              onSelection = {(selected)=>{
-                  this.onSelection(selected)
-              }}
-             /> 
-             <div className="content">
-             {this.state.selected === "home"?<Home/>:
-             this.state.selected === "components/buttons"?<Button/>:<div>Hello there</div>}
-             </div>
+                <div style={{position:"relative"}}>
+                    <Navigation
+                        onSelection = {(selected)=>{
+                            this.onSelection(selected)
+                        }}
+                    /> 
+                </div>
+                <div className="content">
+                {this.state.selected === "home"?<Home/>:
+                this.state.selected === "components/buttons"?<Button/>:<div>Hello there</div>}
+                </div>
             </div>
         );
     }
