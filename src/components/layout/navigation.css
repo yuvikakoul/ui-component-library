@@ -1,4 +1,89 @@
 .sidenav---sidenav---_2tBP {
-    position: relative !important;
+    position: sticky !important;
     height: 100vh !important;
+    background-color: #0f78ca !important;
+}
+.sidenav---sidenav---_2tBP.sidenav---expanded---1KdUL
+    .sidenav---sidenav-subnav---1EN61
+    > .sidenav---sidenav-subnavitem---1cD47
+    > .sidenav---navitem---9uL5T {
+    color: #dedede !important;
+}
+
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-
+    > .sidenav---navitem---9uL5T
+    .sidenav---navicon---3gCRo,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-
+    > .sidenav---navitem---9uL5T
+    .sidenav---navtext---1AE_f {
+    color: #dedede !important;
+}
+
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-
+    > .sidenav---navitem---9uL5T
+    .sidenav---navicon---3gCRo
+    > *,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-
+    > .sidenav---navitem---9uL5T
+    .sidenav---navtext---1AE_f
+    > * {
+    color: #dedede !important;
+}
+
+.sidenav---sidenav---_2tBP.sidenav---expanded---1KdUL
+    .sidenav---sidenav-subnav---1EN61
+    > .sidenav---sidenav-subnavitem---1cD47.sidenav---selected---1EK3y
+    > .sidenav---navitem---9uL5T {
+    color: #fff !important;
+}
+
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-:hover
+    > .sidenav---navitem---9uL5T
+    .sidenav---navicon---3gCRo,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-:hover
+    > .sidenav---navitem---9uL5T
+    .sidenav---navtext---1AE_f,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-.sidenav---highlighted---oUx9u
+    > .sidenav---navitem---9uL5T
+    .sidenav---navicon---3gCRo,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-.sidenav---highlighted---oUx9u
+    > .sidenav---navitem---9uL5T
+    .sidenav---navtext---1AE_f {
+    color: #fff !important;
+}
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-:hover
+    > .sidenav---navitem---9uL5T
+    .sidenav---navicon---3gCRo
+    > *,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-:hover
+    > .sidenav---navitem---9uL5T
+    .sidenav---navtext---1AE_f
+    > *,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-.sidenav---highlighted---oUx9u
+    > .sidenav---navitem---9uL5T
+    .sidenav---navicon---3gCRo
+    > *,
+.sidenav---sidenav-nav---3tvij
+    > .sidenav---sidenav-navitem---uwIJ-.sidenav---highlighted---oUx9u
+    > .sidenav---navitem---9uL5T
+    .sidenav---navtext---1AE_f
+    > * {
+    color: #fff !important;
+}
+
+.sidenav---sidenav-subnav---1EN61
+    > .sidenav---sidenav-subnavitem---1cD47.sidenav---selected---1EK3y
+    > .sidenav---navitem---9uL5T {
+    color: #0f78ca !important;
 }
