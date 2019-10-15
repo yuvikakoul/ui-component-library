@@ -1,0 +1,14 @@
+.swatch {
+    width: 70px;
+    height: 70px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.swatch-text {
+    padding-top: 7px;
+    font-size: 13px;
+    color: #8f99a7;
+    margin-bottom: 12px;
+}

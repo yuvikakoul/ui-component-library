@@ -43,9 +43,9 @@ class Navigation extends Component {
                                     Buttons
                                 </NavText>
                             </NavItem>
-                            <NavItem eventKey="components/form-fields">
+                            <NavItem eventKey="components/color-pallet">
                                 <NavText>
-                                    Form Fields
+                                    Color Pallet
                                 </NavText>
                             </NavItem>
                         </NavItem>
