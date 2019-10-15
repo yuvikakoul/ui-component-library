@@ -79,7 +79,7 @@ class ColorPallet extends Component {
                                 <ColorSwatch backgroundColor="#252d3b" colorText="Headline"/>
                                 <ColorSwatch backgroundColor="#35425a" colorText="Sub headline"/>
                                 <ColorSwatch backgroundColor="#475264" colorText="Body copy"/>
-                                <ColorSwatch backgroundColor="#c3c9d6" colorText="Legal"/>
+                                <ColorSwatch backgroundColor="#ABB2BE" colorText="Legal"/>
                                 <ColorSwatch backgroundColor="#ecf1fd" colorText="Headline dark BG"/>
                                 <ColorSwatch backgroundColor="#d9dee8" colorText="Sub head dark BG"/>
                                 <ColorSwatch backgroundColor="#b8bfcd" colorText="Body copy dark BG"/>
@@ -89,7 +89,7 @@ class ColorPallet extends Component {
                         <div className="section-row">
                             <div className="row-title">Background colors</div>
                             <div className="row-swatch">
-                                <ColorSwatch backgroundColor="#f0f4ff" colorText="Clouds"/>
+                                <ColorSwatch backgroundColor="#f7f9ff" colorText="Clouds"/>
                                 <ColorSwatch backgroundColor="#29354a" colorText="Midnight"/>
                             </div>
                         </div>

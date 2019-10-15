@@ -48,6 +48,11 @@ class Navigation extends Component {
                                     Color Pallet
                                 </NavText>
                             </NavItem>
+                            <NavItem eventKey="components/typography">
+                                <NavText>
+                                    Typography
+                                </NavText>
+                            </NavItem>
                         </NavItem>
                     </SideNav.Nav>
                 </SideNav>            
