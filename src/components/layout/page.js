@@ -4,6 +4,7 @@ import Navigation from "./navigation";
 import Home from "../home";
 import Button from "../element/buttons/buttons"
 import ColorPallet from "../element/color pallet/color-pallet"
+import Typography from "../element/typography/typography"
 
 import './page.css'
 import '@trendmicro/react-sidenav/dist/react-sidenav.css';
@@ -37,7 +38,8 @@ class Page extends Component {
                 {this.state.selected === "home"?<Home/>:
                 this.state.selected === "components/buttons"?
                 <Button/>:this.state.selected === "components/color-pallet"?
-                <ColorPallet/>:<div>Hello there</div>}
+                <ColorPallet/>:this.state.selected === "components/typography"?
+                <Typography/>:<div>Hello there</div>}
                 </div>
             </div>
         );
