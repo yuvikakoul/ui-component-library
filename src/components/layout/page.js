@@ -35,7 +35,9 @@ class Page extends Component {
                 </div>
                 <div className="content">
                 {this.state.selected === "home"?<Home/>:
-                this.state.selected === "components/buttons"?<Button/>:this.state.selected === "components/color-pallet"?<ColorPallet/>:<div>Hello there</div>}
+                this.state.selected === "components/buttons"?
+                <Button/>:this.state.selected === "components/color-pallet"?
+                <ColorPallet/>:<div>Hello there</div>}
                 </div>
             </div>
         );

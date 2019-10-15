@@ -12,7 +12,7 @@ class Buttons extends Component {
 
     render() {
         return (
-            <div style={{padding:100}}>
+            <div style={{padding:"5vw"}}>
                 <div>
                     <div className="section-wrapper">
                         <div className="section-title">Primary buttons</div>
