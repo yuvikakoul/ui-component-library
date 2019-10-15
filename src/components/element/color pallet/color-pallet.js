@@ -12,7 +12,7 @@ class ColorPallet extends Component {
 
     render() {
         return (
-            <div style={{padding:100}}>
+            <div style={{padding:"5vw"}}>
                 <div>
                     <div className="section-wrapper">
                         <div className="section-title">UI colors</div>

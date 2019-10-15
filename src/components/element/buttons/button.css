@@ -2,7 +2,7 @@
 
 .primary-button {
     padding: 15px 25px;
-    background-color: #4b7bec;
+    background-color: #4d92fb;
     color: #fff;
     font-size: 16px;
     font-family: helvetica neue;
@@ -17,7 +17,7 @@
 }
 
 .primary-button:hover {
-    background-color: #3867d6;
+    background-color: #196be5;
     transition: background-color 0.5s ease;
 }
 
@@ -38,16 +38,16 @@
 .primary-button-ghost {
     padding: 15px 25px;
     background-color: #fff;
-    color: #3867d6;
+    color: #196be5;
     font-size: 16px;
     font-family: helvetica neue;
-    border: 2px solid #3867d6;
+    border: 2px solid #196be5;
     border-radius: 8px;
     font-weight: 600;
     cursor: pointer;
 }
 .primary-button-ghost:hover {
-    background-color: #4b7bec;
+    background-color: #4d92fb;
     transition: background-color 0.5s ease;
     color: #fff;
     font-weight: 600;
@@ -73,35 +73,35 @@
 
 /* color variations primary green*/
 button.primary-button.green {
-    background-color: #20bf6b;
+    background-color: #4dd583;
 }
 button.primary-button.green:hover {
-    background-color: #1ba15a;
+    background-color: #27c466;
 }
 button.primary-button-ghost.green {
-    color: #1ba15a;
-    border-color: #1ba15a;
+    color: #27c466;
+    border-color: #27c466;
 }
 button.primary-button-ghost.green:hover {
     color: #fff;
-    background-color: #20bf6b;
+    background-color: #4dd583;
     border-color: #00000033;
 }
 
 /* color variations primary pink*/
 button.primary-button.pink {
-    background-color: #fc5c65;
+    background-color: #fb7469;
 }
 button.primary-button.pink:hover {
-    background-color: #eb3b5a;
+    background-color: #f04f43;
 }
 button.primary-button-ghost.pink {
-    color: #fc5c65;
-    border-color: #fc5c65;
+    color: #fb7469;
+    border-color: #fb7469;
 }
 button.primary-button-ghost.pink:hover {
     color: #fff;
-    background-color: #fc5c65;
+    background-color: #fb7469;
     border-color: #00000033;
 }
 
@@ -109,7 +109,7 @@ button.primary-button-ghost.pink:hover {
 
 .secondary-button {
     padding: 10px 20px;
-    background-color: #4b7bec;
+    background-color: #4d92fb;
     color: #fff;
     font-size: 14px;
     font-family: helvetica neue;
@@ -124,7 +124,7 @@ button.primary-button-ghost.pink:hover {
 }
 
 .secondary-button:hover {
-    background-color: #3867d6;
+    background-color: #196be5;
     transition: background-color 0.5s ease;
 }
 
@@ -145,16 +145,16 @@ button.primary-button-ghost.pink:hover {
 .secondary-button-ghost {
     padding: 10px 20px;
     background-color: #fff;
-    color: #3867d6;
+    color: #196be5;
     font-size: 14px;
     font-family: helvetica neue;
-    border: 2px solid #3867d6;
+    border: 2px solid #196be5;
     border-radius: 8px;
     font-weight: 400;
     cursor: pointer;
 }
 .secondary-button-ghost:hover {
-    background-color: #4b7bec;
+    background-color: #4d92fb;
     transition: background-color 0.5s ease;
     color: #fff;
     font-weight: 400;
@@ -180,35 +180,35 @@ button.primary-button-ghost.pink:hover {
 
 /* color variations secondary green*/
 button.secondary-button.green {
-    background-color: #20bf6b;
+    background-color: #4dd583;
 }
 button.secondary-button.green:hover {
-    background-color: #1ba15a;
+    background-color: #27c466;
 }
 button.secondary-button-ghost.green {
-    color: #1ba15a;
-    border-color: #1ba15a;
+    color: #27c466;
+    border-color: #27c466;
 }
 button.secondary-button-ghost.green:hover {
     color: #fff;
-    background-color: #20bf6b;
+    background-color: #4dd583;
     border-color: #00000033;
 }
 
 /* color variations secondary pink*/
 button.secondary-button.pink {
-    background-color: #fc5c65;
+    background-color: #fb7469;
 }
 button.secondary-button.pink:hover {
-    background-color: #eb3b5a;
+    background-color: #f04f43;
 }
 button.secondary-button-ghost.pink {
-    color: #fc5c65;
-    border-color: #fc5c65;
+    color: #fb7469;
+    border-color: #fb7469;
 }
 button.secondary-button-ghost.pink:hover {
     color: #fff;
-    background-color: #fc5c65;
+    background-color: #fb7469;
     border-color: #00000033;
 }
 
@@ -217,7 +217,7 @@ button.secondary-button-ghost.pink:hover {
 .tertiary-button {
     padding: 10px 20px;
     background-color: none;
-    color: #4b7bec;
+    color: #4d92fb;
     font-size: 14px;
     font-family: helvetica neue;
     border: none;
@@ -230,7 +230,7 @@ button.secondary-button-ghost.pink:hover {
 }
 
 .tertiary-button:hover {
-    color: #3867d6;
+    color: #196be5;
     transition: color 0.5s ease;
 }
 
@@ -249,18 +249,18 @@ button.secondary-button-ghost.pink:hover {
 
 /* color variations tertiary green*/
 button.tertiary-button.green {
-    color: #20bf6b;
+    color: #4dd583;
 }
 button.tertiary-button.green:hover {
-    color: #1ba15a;
+    color: #27c466;
 }
 
 /* color variations tertiary pink*/
 button.tertiary-button.pink {
-    color: #fc5c65;
+    color: #fb7469;
 }
 button.tertiary-button.pink:hover {
-    color: #eb3b5a;
+    color: #f04f43;
 }
 
 /* Social media button css */
