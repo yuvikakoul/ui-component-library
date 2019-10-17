@@ -53,6 +53,11 @@ class Navigation extends Component {
                                     Typography
                                 </NavText>
                             </NavItem>
+                            <NavItem eventKey="components/cards">
+                                <NavText>
+                                    Cards
+                                </NavText>
+                            </NavItem>
                         </NavItem>
                     </SideNav.Nav>
                 </SideNav>            

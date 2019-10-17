@@ -71,35 +71,35 @@
     outline: none;
 }
 
-/* color variations primary green*/
-button.primary-button.green {
+/* color variations primary emerald-green*/
+button.primary-button.emerald-green {
     background-color: #4dd583;
 }
-button.primary-button.green:hover {
+button.primary-button.emerald-green:hover {
     background-color: #27c466;
 }
-button.primary-button-ghost.green {
+button.primary-button-ghost.emerald-green {
     color: #27c466;
     border-color: #27c466;
 }
-button.primary-button-ghost.green:hover {
+button.primary-button-ghost.emerald-green:hover {
     color: #fff;
     background-color: #4dd583;
     border-color: #00000033;
 }
 
-/* color variations primary pink*/
-button.primary-button.pink {
+/* color variations primary peachish*/
+button.primary-button.peachish {
     background-color: #fb7469;
 }
-button.primary-button.pink:hover {
+button.primary-button.peachish:hover {
     background-color: #f04f43;
 }
-button.primary-button-ghost.pink {
+button.primary-button-ghost.peachish {
     color: #fb7469;
     border-color: #fb7469;
 }
-button.primary-button-ghost.pink:hover {
+button.primary-button-ghost.peachish:hover {
     color: #fff;
     background-color: #fb7469;
     border-color: #00000033;
@@ -178,35 +178,35 @@ button.primary-button-ghost.pink:hover {
     outline: none;
 }
 
-/* color variations secondary green*/
-button.secondary-button.green {
+/* color variations secondary emerald-green*/
+button.secondary-button.emerald-green {
     background-color: #4dd583;
 }
-button.secondary-button.green:hover {
+button.secondary-button.emerald-green:hover {
     background-color: #27c466;
 }
-button.secondary-button-ghost.green {
+button.secondary-button-ghost.emerald-green {
     color: #27c466;
     border-color: #27c466;
 }
-button.secondary-button-ghost.green:hover {
+button.secondary-button-ghost.emerald-green:hover {
     color: #fff;
     background-color: #4dd583;
     border-color: #00000033;
 }
 
-/* color variations secondary pink*/
-button.secondary-button.pink {
+/* color variations secondary peachish*/
+button.secondary-button.peachish {
     background-color: #fb7469;
 }
-button.secondary-button.pink:hover {
+button.secondary-button.peachish:hover {
     background-color: #f04f43;
 }
-button.secondary-button-ghost.pink {
+button.secondary-button-ghost.peachish {
     color: #fb7469;
     border-color: #fb7469;
 }
-button.secondary-button-ghost.pink:hover {
+button.secondary-button-ghost.peachish:hover {
     color: #fff;
     background-color: #fb7469;
     border-color: #00000033;
@@ -215,13 +215,12 @@ button.secondary-button-ghost.pink:hover {
 /* Tertiary button css */
 
 .tertiary-button {
-    padding: 10px 20px;
     background-color: none;
     color: #4d92fb;
     font-size: 14px;
     font-family: helvetica neue;
     border: none;
-    font-weight: 600;
+    font-weight: 400;
     cursor: pointer;
     transition: color 0.5s ease;
 }
@@ -235,31 +234,30 @@ button.secondary-button-ghost.pink:hover {
 }
 
 .tertiary-button-disabled {
-    padding: 10px 20px;
     background-color: none;
     color: #bcc3ce;
     font-size: 14px;
     font-family: helvetica neue;
     border: none;
-    font-weight: 600;
+    font-weight: 400;
 }
 .tertiary-button-disabled:focus {
     outline: none;
 }
 
-/* color variations tertiary green*/
-button.tertiary-button.green {
+/* color variations tertiary emerald-green*/
+button.tertiary-button.emerald-green {
     color: #4dd583;
 }
-button.tertiary-button.green:hover {
+button.tertiary-button.emerald-green:hover {
     color: #27c466;
 }
 
-/* color variations tertiary pink*/
-button.tertiary-button.pink {
+/* color variations tertiary peachish*/
+button.tertiary-button.peachish {
     color: #fb7469;
 }
-button.tertiary-button.pink:hover {
+button.tertiary-button.peachish:hover {
     color: #f04f43;
 }
 
