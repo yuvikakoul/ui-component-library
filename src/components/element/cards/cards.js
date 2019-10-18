@@ -9,6 +9,8 @@ import user from "./images/user_2_800.jpg"
 import recipe from "./images/recipe.jpg"
 import design from "./images/design.jpg"
 import designSystem from "./images/design_system.jpg"
+import bratislava from "./images/bratislava.jpg"
+import riverSpree from "./images/river_spree.jpg"
 
 class Cards extends Component {
     constructor(props) {
@@ -150,23 +152,23 @@ class Cards extends Component {
                             <div className="row-title">Cards with no actions</div>
                             <div className="row-cards">
                             <Card
-                                  hero={recipe}
-                                  title="A recipe a day challenge"
+                                  hero={bratislava}
+                                  title="A trip to Bratislava"
                                   time="2 days ago"
                                   cardCopy="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..."
                                 />
                                 <Card
-                                  hero={design}
+                                  hero={riverSpree}
                                   time="2 hours ago"
-                                  title="A design article a day"
+                                  title="Walking by the river Spree"
                                   titleTop={true}
                                   cardCopy="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..."
                                   
                                 />
                                  <Card
-                                  hero={designSystem}
+                                  hero={user}
                                   time="2 days ago"
-                                  title="UI Kit for sale"
+                                  title="Being a foodie"
                                   profileImage={user}
                                   userName="Divyendu Singh"
                                   userTitle="Fullstack Devloper"
