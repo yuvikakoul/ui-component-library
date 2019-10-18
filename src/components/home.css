@@ -1,0 +1,103 @@
+.hero-banner {
+    height: 100vh;
+    width: 100vw;
+    background-position: right top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: fixed;
+    right: 0;
+    z-index: -1;
+}
+.hero-banner-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    padding-left: 80px;
+}
+.logo-bar {
+    display: flex;
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.logo-bar img {
+    height: 100px;
+}
+.hero-title {
+    font-size: 72px;
+    font-weight: 900;
+    width: 20vw;
+    margin-bottom: 20px;
+    color: #584e7e;
+}
+.hero-copy {
+    font-size: 20px;
+    font-weight: 300;
+    width: 35vw;
+    margin-bottom: 20px;
+    color: #394658;
+    line-height: 1.5;
+}
+.hero-info {
+    font-size: 16px;
+    font-weight: 600;
+    width: 35vw;
+    margin-bottom: 40px;
+    color: #a1739d;
+    line-height: 1.2;
+    font-style: italic;
+}
+.star {
+    height: 290px;
+    position: absolute;
+    right: 340px;
+    top: 340px;
+}
+.img1 {
+    height: 200px;
+    position: absolute;
+    right: 230px;
+    top: 330px;
+}
+.img2 {
+    height: 200px;
+    position: absolute;
+    right: 402px;
+    top: 225px;
+}
+.dev {
+    height: 200px;
+    position: absolute;
+    right: 222px;
+    top: 175px;
+}
+.chart {
+    height: 280px;
+    position: absolute;
+    right: 572px;
+    top: 25px;
+}
+.video {
+    height: 260px;
+    position: absolute;
+    right: 362px;
+    top: 15px;
+}
+.lady {
+    height: 330px;
+    position: absolute;
+    right: 0;
+    top: 300px;
+}
+.guy {
+    height: 330px;
+    position: absolute;
+    right: 540px;
+    top: 170px;
+}
+.illustration-wrapper {
+    position: absolute;
+    top: 10vh;
+    right: -5vw;
+}

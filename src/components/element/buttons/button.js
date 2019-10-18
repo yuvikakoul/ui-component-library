@@ -17,7 +17,6 @@ class Button extends Component {
               <button 
                  className={this.props.buttonClass} 
                  style={{
-                      margin:10, 
                       display:"flex", 
                       flexDirection:"row"
                     }}
