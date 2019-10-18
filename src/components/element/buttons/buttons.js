@@ -25,15 +25,15 @@ class Buttons extends Component {
                                 <Button buttonClass="primary-button-ghost-disabled" buttonText="Ghost Disabled"/>
                             </div>
                             <div className="row-buttons">
-                                <Button buttonClass="primary-button green" buttonText="Primary Button"/>
+                                <Button buttonClass="primary-button emerald-green" buttonText="Primary Button"/>
                                 <Button buttonClass="primary-button-disabled" buttonText="Button Disabled"/>
-                                <Button buttonClass="primary-button-ghost green" buttonText="Button Ghost"/>
+                                <Button buttonClass="primary-button-ghost emerald-green" buttonText="Button Ghost"/>
                                 <Button buttonClass="primary-button-ghost-disabled" buttonText="Ghost Disabled"/>
                             </div>
                             <div className="row-buttons">
-                                <Button buttonClass="primary-button pink" buttonText="Primary Button"/>
+                                <Button buttonClass="primary-button peachish" buttonText="Primary Button"/>
                                 <Button buttonClass="primary-button-disabled" buttonText="Button Disabled"/>
-                                <Button buttonClass="primary-button-ghost pink" buttonText="Button Ghost"/>
+                                <Button buttonClass="primary-button-ghost peachish" buttonText="Button Ghost"/>
                                 <Button buttonClass="primary-button-ghost-disabled" buttonText="Ghost Disabled"/>
                             </div>
                         </div>
@@ -67,9 +67,9 @@ class Buttons extends Component {
                                 <Button buttonClass="secondary-button-ghost-disabled" buttonText="Ghost Disabled" buttonIcon={['fas', 'download']}/>
                             </div>
                             <div className="row-buttons">
-                                <Button buttonClass="secondary-button green" buttonText="Secondary Button" buttonIcon={['fas', 'download']}/>
+                                <Button buttonClass="secondary-button emerald-green" buttonText="Secondary Button" buttonIcon={['fas', 'download']}/>
                                 <Button buttonClass="secondary-button-disabled" buttonText="Button Disabled" buttonIcon={['fas', 'download']}/>
-                                <Button buttonClass="secondary-button-ghost green" buttonText="Button Ghost" buttonIcon={['fas', 'download']}/>
+                                <Button buttonClass="secondary-button-ghost emerald-green" buttonText="Button Ghost" buttonIcon={['fas', 'download']}/>
                                 <Button buttonClass="secondary-button-ghost-disabled" buttonText="Ghost Disabled" buttonIcon={['fas', 'download']}/>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ class Buttons extends Component {
                                 <Button buttonClass="tertiary-button-disabled" buttonText="Link Disabled" buttonIcon={['fas', 'external-link-alt']}/>
                             </div>
                             <div className="row-buttons">
-                                <Button buttonClass="tertiary-button pink" buttonText="Tertiary link" buttonIcon={['fas', 'external-link-alt']}/>
+                                <Button buttonClass="tertiary-button peachish" buttonText="Tertiary link" buttonIcon={['fas', 'external-link-alt']}/>
                                 <Button buttonClass="tertiary-button-disabled" buttonText="Link Disabled" buttonIcon={['fas', 'external-link-alt']}/>
                             </div>
                         </div>
